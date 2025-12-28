@@ -65,9 +65,9 @@
 |10| RNA-seq (1) | 12月16日 | [テキスト](https://colab.research.google.com/github/CropEvol/lecture/blob/master/textbook_2025/RNAseq_1.ipynb)<br>[課題](https://panda.ecs.kyoto-u.ac.jp/x/AH1o46) |  |
 |11| RNA-seq (2) | 12月23日 | [テキスト](https://colab.research.google.com/github/CropEvol/lecture/blob/master/textbook_2025/RNAseq_2.ipynb)<br>[課題](https://panda.ecs.kyoto-u.ac.jp/x/AH1o46) |  |
 |12| Gene function | 12月23日 | [テキスト](https://colab.research.google.com/github/CropEvol/lecture/blob/master/textbook_2025/Gene_function.ipynb) |  |
-|13|  |  |  |  |
-|14|  |  |  |  |
-|15|  |  |  |  |
+|13| Functional analysis of genes identified by genome analysis | Jan. 06 | [Content]()<br>[Assignment]() |  |
+|14| Genome editing | Jan. 06 | [Content]()<br>[Assignment]() |  |
+|15| Genome editing (cont'd) | Jan. 06 | [Content]()<br>[Assignment]() |  |
 
 
 
